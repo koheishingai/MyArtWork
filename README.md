@@ -8,8 +8,7 @@ iOS6のローディング表示を、JavaScriptで再現
 
 `html``JavaScript``CSS`
 
-* [CodePen - Normal](http://codepen.io/koheishingai/pen/phaEB)
-* [CodePen - Full](http://cdpn.io/phaEB)
+* [www.koheishingai.com - Loading Like iOS](http://www.koheishingai.com/loading_like_iOS)
 * [www.koheishingai.com - Collections](http://www.koheishingai.com/collections/1)
 
 
