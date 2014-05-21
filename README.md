@@ -33,8 +33,8 @@ JavaScriptのみで実装されたうさぎ落下型アクションゲーム(iPh
 
 `html``JavaScript``CSS`
 
-* [www.koheishingai.com - Sign_UP/Login_Box](http://www.koheishingai.com/SignUp_LoginBox)
-* [Codepen - Sign_Up/Login_box](http://codepen.io/koheishingai/details/FLvgs/)
+* [www.koheishingai.com - SignUP/Login Box](http://www.koheishingai.com/SignUp_LoginBox)
+* [Codepen - SignUp/Login box](http://codepen.io/koheishingai/details/FLvgs/)
 
 ## Sign Up/Login Box - May 2014
 簡易HTML圧縮ツール
