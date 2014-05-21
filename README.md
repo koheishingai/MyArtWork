@@ -8,7 +8,7 @@ iOS6のローディング表示を、JavaScriptで再現
 
 `html``JavaScript``CSS`
 
-* [www.koheishingai.com - Loading Like iOS](http://www.koheishingai.com/loading_like_iOS)
+* [www.koheishingai.com - Loading Like iOS](http://cdpn.io/phaEB)
 * [www.koheishingai.com - Collections](http://www.koheishingai.com/collections/1)
 * [CodePen - Loading Like iOS](http://codepen.io/koheishingai/details/phaEB/#stats)
 * [Techler - Animações com CSS3 no estilo iOS](http://www.teckler.com/pt/Luanzera/Anima%C3%A7%C3%B5es-com-CSS3-no-estilo-iOS-132815)
@@ -25,7 +25,7 @@ JavaScriptのみで実装されたうさぎ落下型アクションゲーム(iPh
 
 `html``JavaScript``CSS`
 
-* [www.koheishingai.com - My Portfolio](http://www.koheishingai.com/My_Portfolio)
+* [www.koheishingai.com - My Portfolio](http://cdpn.io/rabDc)
 * [vimeo - My Coding Slill](http://vimeo.com/77338550)
 
 ## Sign Up/Login Box - Jan 2014
@@ -41,7 +41,7 @@ JavaScriptのみで実装されたうさぎ落下型アクションゲーム(iPh
 
 `html``JavaScript``CSS`
 
-* [www.koheishingai.com - HTML Compressor](http://www.koheishingai.com/HTML_Compressor)
+* [www.koheishingai.com - HTML Compressor](http://cdpn.io/FLvgs)
 * [Codepen - HTML Compressor](http://codepen.io/koheishingai/details/fvlJk/)
 
 
